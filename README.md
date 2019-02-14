@@ -1,6 +1,6 @@
-# ** Pratica Rails 2018.2 **
-[IFPB/JP/SI] Programacao Rapida para Web
+# ** Prática Rails 2018.2 **
+[IFPB/JP/SI] Programação Rápida para Web
 
-## ** Atencao  **
+## ** Atenção  **
 
-> As informacoes sobre a pratica estao registradas no Google Classroom.
+> As informações sobre a prática estão registradas no Google Classroom.
